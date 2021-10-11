@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet7uke&label=Profile%20views&color=0e75b6&style=flat" alt="kiet7uke" /> </p>
 
-- 🔭 I’m currently working on **Android Devlopment**
+- 🔭 I’m currently working on **Android Devlopment and Web Devlopment**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native & Node JS**
 
-- 👯 I’m looking to collaborate on **Android Dev Projects**
+- 👯 I’m looking to collaborate on **Android Dev Projects & Front end designs**
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **sharmasahil2468@gmail.com**
 
