@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Devlopment & Web Devlopment**
 
-- 🌱 I’m currently learning **React Native & Node JS**
+- 🌱 I’m currently learning **React Native & UI/UX designs**
 
 - 👯 I’m looking to collaborate on **Android Dev Projects & Front end designs**
 
