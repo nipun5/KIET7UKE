@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet7uke&label=Profile%20views&color=0e75b6&style=flat" alt="kiet7uke" /> </p>
 
-- 🔭 I’m currently working on **Android Devlopment & Web Devlopment**
+- 🔭 I’m currently working on **Android Devlopment**
 
 - 🌱 I’m currently learning **React Native & UI/UX designs**
 
