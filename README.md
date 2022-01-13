@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiet7uke&label=Profile%20views&color=0e75b6&style=flat" alt="kiet7uke" /> </p>
 
-- 🔭 I’m currently working on **WEB DEVLOPMENT**
+- 🔭 I’m currently working on **Back-End Devlopment**
 
-- 🌱 I’m currently learning **React Native & UI/UX designs**
+- 🌱 I’m currently learning **React & JavaScript**
 
-- 👯 I’m looking to collaborate on **Android Dev Projects & Front end designs**
+- 👯 I’m looking to collaborate on **Web-Dev Projects**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **JavaScript**
 
 - 💬 Ask me about **Anything**
 
