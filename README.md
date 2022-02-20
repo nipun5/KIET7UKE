@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **Back-End Devlopment**
 
-- 🌱 I’m currently learning **React & JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Web-Dev Projects**
 
-- 🤝 I’m looking for help with **JavaScript**
-
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Html, Css, Bootstrap, Python, C++**
 
 - 📫 How to reach me **sharmasahil2468@gmail.com**
 
