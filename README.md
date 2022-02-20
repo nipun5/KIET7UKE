@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **Web-Dev Projects**
+- 👯 I’m looking to collaborate on **ReactJS Projects**
 
 - 💬 Ask me about **Html, Css, Bootstrap, Python, C++**
 
