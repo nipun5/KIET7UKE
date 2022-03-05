@@ -158,7 +158,7 @@ Github Stats :
 <table>
   <tr>
     <td align="center">
-      <img alt="" width="400" src="">
+      <img alt="" width="400" src="https://metrics.lecoq.io/kiet7uke?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta">
     </td>
     <td align="center">
         <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs?username=kiet7uke&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="170px" width="360px">
@@ -175,8 +175,5 @@ Github Stats :
 </table>
   
   <img src="https://activity-graph.herokuapp.com/graph?username=KIET7UKE&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
-  
-  <td align="center">
-      <img alt="" width="400" src="https://metrics.lecoq.io/kiet7uke?template=classic&isocalendar=1&languages=1&followup=1&achievements=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
-    </td>
+   
 
