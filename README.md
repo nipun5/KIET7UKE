@@ -20,7 +20,8 @@
 - :computer: &nbsp;I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Sambalpur University Institute Of Information Technology(SUIIT)](https://suiit.ac.in/)
 - :crystal_ball: &nbsp;I’m currently working on Back-end Development, ReactJS & NodeJS 
-- :mailbox: &nbsp;You can catch me on : [***LinkedIn***](https://www.linkedin.com/in/sahil-kumar-sharma-b41872198/)
+- :mailbox: &nbsp;You can reach out to me at : ***sharmasahil2468@gmail.com***
+- :package: &nbsp;You can catch me on : [***LinkedIn***](https://www.linkedin.com/in/sahil-kumar-sharma-b41872198/)
 - :bowtie: &nbsp;Pronouns: He/Him
 - :video_game: &nbsp;**Hobbies**: PC Gaming, Coding, Investing in Crypto
 
@@ -172,3 +173,6 @@ Github Stats :
     </td>
   </tr>
 </table>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=KIET7UKE&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
+
