@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/sahil-kumar-sharma-b41872198/" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="260" height="auto"></a>
 <br>
 
-- :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Sahil%20Sharma-RESUME-blue?style=for-the-badge&logo=Sega)](https://drive.google.com/file/d/1XTrJBgzDhSeJMRZym33VZFWmS36Q_Yai/view)
+- :octocat: &nbsp;[![Resume](https://img.shields.io/badge/Sahil%20Sharma-RESUME-blue?style=for-the-badge&logo=Sega)](https://drive.google.com/file/d/1nEC5g_4iK8UsMlwxg2-BAAFLQE_VgKdc/view?usp=sharing)
 - :computer: &nbsp;I’m currently pursuing B.Tech in **Computer Science & Engineering** at the  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Sambalpur University Institute Of Information Technology(SUIIT)](https://suiit.ac.in/)
 - :crystal_ball: &nbsp;I’m currently working on Back-end Development, ReactJS & NodeJS 
